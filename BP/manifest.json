@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Runtime AntiXray§r(§a1.0.0§r)",
+    "description": "§aExperimental.",
+    "uuid": "fb175c55-4716-427f-abfe-1d585d5c0d9b",
+    "min_engine_version": [1, 21, 120],
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Behavior Pack Module",
+      "type": "data",
+      "uuid": "ba31f397-8799-4603-a564-2c4b63bd8893",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "scripts",
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/index.js",
+      "uuid": "4a57704f-0198-4a11-9289-ab1894560c2e",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "beta"
+    }
+  ],
+  "metadata": {
+    "author": ["IndeedItzGab"],
+    "license": "GPL-3.0-or-later",
+    "product_type": "addon"
+  }
+}

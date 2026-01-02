@@ -1,0 +1,7 @@
+name: Runtime-AntiXray
+version: V1.0.0
+status: STABLE
+message: |
+  # Runtime-AntiXray V1.0.0
+  - Replace all blocks over all dimension to blend with other non-ores blocks,
+  - Performance was optimized while the speed of the process got increased compare to the beta version.
