@@ -6,7 +6,7 @@
 A powerful script for Minecraft: Bedrock Edition that maintain fairness within the game by removing the ability of xrayer to see ores in the world.
 
 ## Documentation
-- [Installation Guide]()
+- [Installation Guide](https://github.com/IndeedItzGab/Runtime-AntiXray/blob/main/docs/INSTALLATION.md#installation)
 
 ## Contributions
 - **Reporting Bugs** - If you encounter any bugs while using Runtime AntiXray, please open an [issue](https://github.com/IndeedItzGab/Runtime-AntiXray/issues/new) in our github repository. Ensure to include a detailed description of the issue and steps to reproduce it.

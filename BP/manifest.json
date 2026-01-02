@@ -2,7 +2,7 @@
   "format_version": 2,
   "header": {
     "name": "Runtime AntiXray§r(§a1.0.0§r)",
-    "description": "§aExperimental.",
+    "description": "A powerful script for Minecraft: Bedrock Edition that maintain fairness within the game by removing the ability of xrayer to see ores in the world.",
     "uuid": "fb175c55-4716-427f-abfe-1d585d5c0d9b",
     "min_engine_version": [1, 21, 120],
     "version": [1, 0, 0]
